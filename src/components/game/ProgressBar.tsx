@@ -1,0 +1,2 @@
+interface ProgressBarProps {
+  current: number;
